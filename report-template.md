@@ -36,15 +36,12 @@ Perhaps just adding more time to the training using neural networks, the dataset
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-TODO: Replace the image below with your own.
-
 <img width="712" alt="model_score" src="https://user-images.githubusercontent.com/16232171/151698968-97ebf405-1fe7-4dff-8ac7-ca9cd4883957.png">
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-TODO: Replace the image below with your own.
 
 <img width="712" alt="kaggle_score" src="https://user-images.githubusercontent.com/16232171/151698957-90e5d22e-4bd4-46e3-85f6-f1aa0c0d09b2.png">
 
 ## Summary
-TODO: The previous line plots describe how the outstanding performance of hyperparameter tunning, according to this experiment, it's better to make effort in trying different configuration of deep learning algorithms and invest time so the algorithm can try different experiments.
+The previous line plots describe how the outstanding performance of hyperparameter tunning, according to this experiment, it's better to make effort in trying different configuration of deep learning algorithms and invest time so the algorithm can try different experiments.
